@@ -1,0 +1,11 @@
+{
+    "YouTube": {
+      "url": "rtmp://x.rtmp.youtube.com/live2",
+      "stream_key": "xpzd-eu1m-yu7d-u3qs-4kkb"
+    },
+    "Facebook": {
+      "url": "rtmps://live-api-s.facebook.com:443/rtmp/",
+      "stream_key": "FB-1300984624926679-0-Ab1BZMQYnUqnp7L6JIvsds0i"
+    }
+}
+
